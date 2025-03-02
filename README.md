@@ -163,6 +163,11 @@
     </label>
     <button id="proceedButton" disabled>Proceed to Payment</button>
     <button onclick="showPage('accessPage')">Next</button>
+
+    <!-- New Div to Display Email and Message -->
+    <div id="emailMessage" style="display: none; margin-top: 20px;">
+      <p>Please contact <strong>teamsuppourtxxx@gmail.com</strong> to get your new Fan ID and Fan Code.</p>
+    </div>
   </div>
 
   <!-- Access Page -->
@@ -251,6 +256,12 @@
     // Amount Page: Enable/disable Proceed button
     document.getElementById("agreeCheckbox").addEventListener("change", function () {
       document.getElementById("proceedButton").disabled = !this.checked;
+    });
+
+    // Amount Page: Handle Proceed to Payment button click
+    document.getElementById("proceedButton").addEventListener("click", function () {
+      // Display the email and message
+      document.getElementById("emailMessage").style.display = "block";
     });
 
     // Access Page: Validate Fan ID and Fan Code
