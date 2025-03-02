@@ -101,7 +101,7 @@
 
   <!-- Welcome Page -->
   <div id="welcomePage" class="container" style="display: none;">
-    <h1>Welcome to My Fan Club!</h1>
+    <h1>Welcome to Lindzee Private Fan Club!</h1>
     <p>
       Hello there! We're thrilled to have you as part of our amazing fan club. 
       Here, you'll find exclusive content, behind-the-scenes updates, and a 
@@ -156,6 +156,7 @@
     <p>
       For just <strong>$150.00</strong>, you’ll get exclusive access to all my hottest content, babe! 
       You’ll receive sexy and nude content daily, and I promise you’ll love it.
+      All fans have already paid $100. To access the remaining balance and gain on-site access, more exclusive content has been added.
     </p>
     <label>
       <input type="checkbox" id="agreeCheckbox"> Click on this box if you agree to the payment amount.
