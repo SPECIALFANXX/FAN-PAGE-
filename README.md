@@ -154,7 +154,7 @@
   <div id="amountPage" class="container" style="display: none;">
     <h1>Exclusive Access</h1>
     <p>
-      For just <strong>$150.00</strong>, you’ll get exclusive access to all my hottest content, babe! 
+      For just <strong>$50.00</strong>, you’ll get exclusive access to all my hottest content, babe! 
       You’ll receive sexy and nude content daily, and I promise you’ll love it.
       All fans have already paid $100. To access the remaining balance and gain on-site access, more exclusive content has been added.
     </p>
